@@ -8,11 +8,12 @@ Importing math
 ### Step 2: 
 assigning 2 varaiable 
 ### Step 3: 
-Substitute the values in the distance formula formula
+Substitute the values in the distance formula sqrt(((x2-x1)**2) - ((y2-y1)**2))
 ### Step 4: 
 print the calculated value 
 ### Step 5: 
 End the program
+
 ### PROGRAM:
 ```
 #Program to find the distance between two points.
