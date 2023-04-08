@@ -8,7 +8,7 @@ Importing math
 ### Step 2: 
 assigning 2 varaiable 
 ### Step 3: 
-Substitute the values in the distance formula  ![formula](/formula.jpg)
+Substitute the values in the distance formula formula
 ### Step 4: 
 print the calculated value 
 ### Step 5: 
